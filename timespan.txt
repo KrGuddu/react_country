@@ -1,0 +1,12 @@
+tech gun youtube channel
+25:05 - 31:00 =>react router dom
+30:00 => outlet
+
+Note: 1. jab header and footer same rakhna ho bas bich ka data change ho to outlet ka use krte hai. aur outlet nested ke liye use hota hai
+      2. object ke under object ka use nhi krna chahiye => alternate: array ke under object ka use kare. multiple object ka v use kar skte hai.
+      3. jab v key value pairs ka use krte hai to assignment ke liye = ka use nhi krte hai uske jagah : ka use krte hai.
+      eg:- children : [{key: "value"}]
+37:45 => useRouteError hook
+**38:35: see for error
+**44:10 for css
+**47:24

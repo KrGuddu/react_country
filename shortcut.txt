@@ -1,0 +1,9 @@
+Que. How to change all the same words at once in Vs Code. 
+or,  To change all occurrences of a specific word simultaneously in VS Code.
+
+Ans: Step1. Hover the cursor on any word
+     Step2. Ctrl + Shift + L
+     or,    Fn + Ctrl + F2
+
+alt + keyup : to keeping up any element
+alt + keydown : to keeping down any elements
