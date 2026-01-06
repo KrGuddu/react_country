@@ -22,4 +22,7 @@ eg: font-size: clamp(5.2rem, 6vw, 4.241rem);
 1:19:25  => Also. don't forgat to add type property in button (like type="submit").
 1:21:25 => for react19
 
-taki validation ho sake
+Que. What is symantic layout => 1:27:50
+how to give relative path in reactjs project?
+
+Note: Do not pass component inside json data.  =>1:31:40

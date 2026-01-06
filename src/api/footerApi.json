@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Noida, India"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+91 95251-32113"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "krguddu684@gmail.com"
+  }
+]
