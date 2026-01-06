@@ -18,4 +18,8 @@ eg: font-size: clamp(5.2rem, 6vw, 4.241rem);
 
 1:7:5 => array.map method
 1:8:20 =>jab v map method ka use kare to hamesa key props pass krna jaruri hota hai nhi to error dega
+*1:18:15 => do not forgate to adding name attributes in form tag or form handling.
+1:19:25  => Also. don't forgat to add type property in button (like type="submit").
+1:21:25 => for react19
 
+taki validation ho sake
