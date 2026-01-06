@@ -10,3 +10,7 @@ Note: 1. jab header and footer same rakhna ho bas bich ka data change ho to outl
 **38:35: see for error
 **44:10 for css
 **47:24
+
+what is clamp?
+eg: font-size: clamp(5.2rem, 6vw, 4.241rem);
+

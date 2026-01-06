@@ -1,9 +1,8 @@
-import React from "react";
 import { NavLink } from "react-router-dom";
 
 export const Headers = () => {
   return (
-    <Headers>
+    <header>
       <div className="container">
         <div className="grid navbar-grid">
           <div className="logo">
@@ -33,6 +32,6 @@ export const Headers = () => {
           </nav>
         </div>
       </div>
-    </Headers>
+    </header>
   );
 };
