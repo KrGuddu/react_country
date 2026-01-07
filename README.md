@@ -8,7 +8,7 @@ A modern React-based web application to explore detailed information about count
 
 ## 🚀 Live Demo
 
-🔗 https://worldxplore.netlify.app  
+🔗 https://worldxploree.netlify.app/ 
 
 ---
 
