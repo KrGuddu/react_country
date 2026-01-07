@@ -9,14 +9,12 @@ A modern React-based web application to explore detailed information about count
 ## 🚀 Live Demo
 
 🔗 https://worldxplore.netlify.app  
-*(Replace with your actual live link if different)*
 
 ---
 
 ## 📂 GitHub Repository
 
-🐙 https://github.com/KrGuddu/worldxplore  
-*(Update if repository name is different)*
+🐙 https://github.com/KrGuddu/react_country.git
 
 ---
 
@@ -56,7 +54,7 @@ This project demonstrates practical usage of **React**, **API integration**, and
 
 This project uses the **REST Countries API** to fetch real-time country data:
 
-🔗 https://restcountries.com/
+🔗 https://restcountries.com/v3.1/all?fields=name,population,region,capital,flags
 
 ---
 
@@ -76,3 +74,30 @@ This project uses the **REST Countries API** to fetch real-time country data:
 
 ### Footer
 ![footer Page](./public/images/footer.png)
+
+---
+
+## ▶️ Run This Project Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/KrGuddu/react_country.git
+
+# Navigate to the project directory
+cd react_country
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
+
+## 👨‍💻 Author
+**Mr. Guddu Kumar**  
+Frontend / React Developer
+
+🌐 Portfolio: https://guddudev.netlify.app
+
+🐙 GitHub: https://github.com/KrGuddu
