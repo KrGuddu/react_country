@@ -69,6 +69,9 @@ This project uses the **REST Countries API** to fetch real-time country data:
 ### Country Details Page
 ![country Page](./public/images/country.png)
 
+### Country Card Page
+![country card](./public/images/CountryCard.png)
+
 ### Contact Page
 ![Contact](./public/images/contact.png)
 
