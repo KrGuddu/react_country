@@ -26,3 +26,5 @@ Que. What is symantic layout => 1:27:50
 how to give relative path in reactjs project?
 
 Note: Do not pass component inside json data.  =>1:31:40
+2:19:20 =>hook me array (like useState([]) ) tab likhye jab eksath multiple data lena ho. kisi ek ko target krne ke liye simply hook ka use kar lijiye(like useState() ).
+2:49:20 => for mobile responsivnate
