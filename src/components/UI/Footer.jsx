@@ -1,4 +1,4 @@
-// import footerContact from "../../api/footerApi";                //Also, we can handle the footer api data by footerApi.js file.
+// // import footerContact from "../../api/footerApi";                //Also, we can handle the footer api data by footerApi.js file.
 import footerContact from "../../api/footerApi.json";
 import { IoCallSharp } from "react-icons/io5";
 import { MdPlace } from "react-icons/md";
@@ -75,4 +75,3 @@ export const Footers = () => {
     </footer>
   );
 };
-

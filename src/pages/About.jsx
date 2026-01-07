@@ -15,7 +15,7 @@ export const About = () => {
             country;
           return (
             <div className="card" key={id}>
-              <div className="container-card bg-blue-box">               {/* to change color of shadow need to pass the color name like green, yellow, red, etc */}
+              <div className="container-card bg-blue-box">          {/* to change color of shadow need to pass the color name like green, yellow, red, etc */}
                 <p className="card-title">{countryName}</p>
                 <p>
                   <span className="card-description">Capital:</span>
@@ -37,4 +37,3 @@ export const About = () => {
     </section>
   );
 };
-

@@ -30,7 +30,7 @@ const router = createBrowserRouter([
       },
       {
         path: "country/:id",
-        element: <CountryDetails />,       //import country details
+        element: <CountryDetails />,
       },
       {
         path: "contact",
