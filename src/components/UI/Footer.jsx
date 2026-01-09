@@ -36,7 +36,7 @@ export const Footers = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2026, All Right Reserved
-                <NavLink to="https://guddudev.netlify.app/" target="_blank">
+                <NavLink to="https://krguddu.netlify.app" target="_blank">
                   KrGuddu
                 </NavLink>
               </p>

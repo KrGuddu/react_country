@@ -8,7 +8,7 @@ A modern React-based web application to explore detailed information about count
 
 ## 🚀 Live Demo
 
-🔗 https://worldxploree.netlify.app/ 
+🔗 https://worldxploree.netlify.app
 
 ---
 
@@ -101,6 +101,6 @@ npm run dev
 **Mr. Guddu Kumar**  
 Frontend / React Developer
 
-🌐 Portfolio: https://guddudev.netlify.app
+🌐 Portfolio: https://krguddu.netlify.app
 
 🐙 GitHub: https://github.com/KrGuddu
